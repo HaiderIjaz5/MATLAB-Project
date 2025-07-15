@@ -73,7 +73,8 @@ rgb2hsv, medfilt2, imbinarize, bwareaopen, bwlabel, label2rgb, imshow
 ## 📂 Folder Structure
 ```
 📁 project/
-├── fft_circle_detection.m       % Contains both scripts in order
+├── circle_detection.m
+├── fft_shift.m
 ├── input1.jpg                   % First image for FFT
 ├── input2.jpg                   % Second image for FFT
 ├── circles.jpg                  % Input for circle detection
