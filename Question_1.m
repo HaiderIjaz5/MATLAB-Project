@@ -1,6 +1,3 @@
-%MUHAMMAD HAIDER IJAZ(2022-AG-7999)_BSSE_SecA
-
-
 clear; clc; close all;
 % Read two images and convert to grayscale
 image1 = rgb2gray(imread('input1.jpg')); % Example image
