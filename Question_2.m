@@ -1,5 +1,3 @@
-%MUHAMMAD HAIDER IJAZ(2022-AG-7999)_BSSE_SecA
-
 % Read the image
 img = imread('circles.jpg');
 
